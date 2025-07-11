@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Abbas's blog!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, I'm a
+- Three Star(\*) programmer
+- purveyor of strong opinions loosely held
+- loud vim user
+
+This is just random stuff, mostly code.
