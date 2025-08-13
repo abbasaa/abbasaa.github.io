@@ -1,6 +1,6 @@
 
 ---
-title: (Kinda) Dirtbagging for a Month
+title: (Kinda) Dirt-bagging for a Month
 draft: false
 tags:
   - climbing
